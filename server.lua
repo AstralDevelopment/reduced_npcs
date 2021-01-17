@@ -1,0 +1,1 @@
+print("NPC Reducidos loaded! Made by AstralClaps for FenixRP")
